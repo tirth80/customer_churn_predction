@@ -161,7 +161,6 @@ customer-insights-platform/
 │       └── __init__.py
 │
 ├── data/
-│   ├── simulated_customers.csv
 │   └── telco_churn.csv
 │
 ├── docs/
